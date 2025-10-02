@@ -20,7 +20,7 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/080e1619-f2e9-4d22-9cd9-7bf71e3084f9" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/be6c1fd2-9e3c-484d-b880-459c43cd5926" />
 
-## 6. Cambiar las propiedades del Player.png
+## 6. Configurar el Inspector del Sprite Player.png
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4e538960-ce36-45da-95c6-59868bd55555" />
 
 ## 7. Usar el Sprite Editor para Slice y separar la hoja en sprites individuales de 32*32.
@@ -29,4 +29,29 @@
 ## 8. Verificar los Sprites extraídos
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/05a061e0-7d6c-4c1e-a41d-651786b06f94" />
 
-##    
+## 9. Selección del Sprite Player_12 para la vista Game 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/151bc696-5e0f-4320-aef6-2214f4d285c0" />
+
+## 10. Configurar el Inspector de cada sprite (EnemyIdle_1 - EnemyWalk_1) 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/17b72d85-105d-4b6f-ab52-4f7ce6a87cc3" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/48fa834f-2d63-474a-b770-fbd0526049dc" />
+
+## 11. Seleccionar los primeros 4 Sprites de Player (Player_0, Player_1, Player_2, Player_3)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9afedfe3-e6cd-44c9-a713-540ab866cba8" />
+
+## 12. Arrastrar los Sprites seleccionados al PlayerObject y guardarlos como player-walk-east en la carpeta de /Assets/Animations/Animations
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0b45d0e7-d600-4b32-bf5e-b1a99b4ad257" />
+
+## 13. Verificar que el PlayerObject tiene los componentes Sprite Renderer y Animator
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9f3e93bc-8577-4375-82e4-c3fd64fade83" />
+
+## 14.  Renombra el controller como PlayerController
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e59a87bc-5544-45eb-92f1-f3ae7d665dbc" />
+
+## 15. Una vez renombrado arrastrralo a la carpeta /Animations/Controllers
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f4ad8068-21b0-4461-ab49-ad2b1059955a" />
+
+## 16. Abrir la ventana Animator del PlayerController
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2b6e4aac-47a7-41a8-8ef8-66235b8fdf8d" />
+
+## 17. 
