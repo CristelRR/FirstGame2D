@@ -72,3 +72,19 @@
 ## 21. Cambiar la velocidad a 0.6 en el Animator player-walk-east
 <img width="442" height="249" alt="image" src="https://github.com/user-attachments/assets/8e1382bc-d4a9-4a3a-98f3-9cdb7f405aaa" />
 <img width="442" height="249" alt="image" src="https://github.com/user-attachments/assets/9425059c-b63c-4fba-b5e5-196f9f12055a" />
+
+## 22. Seleccionar los 5 Sprites de EnemyIdle_1
+<img width="442" height="249" alt="image" src="https://github.com/user-attachments/assets/5d365655-47ea-418c-8878-b4611e665d8a" />
+
+## 23. Arrastrar los Sprites seleccionados al EnemyObject y guardarlos como Assets/Animations/Animaciones/enemy-idle-1.anim
+<img width="442" height="249" alt="image" src="https://github.com/user-attachments/assets/020f778e-b69f-4fcc-aa70-b23fffff146f" />
+
+## 24. Renombra el controller como EnemyController
+<img width="442" height="249" alt="image" src="https://github.com/user-attachments/assets/b3f3b398-6a87-4d08-bb55-e51ab5706a90" />
+
+## 25. Una vez renombrado arrastrralo a la carpeta /Animations/Controllers
+<img width="442" height="249" alt="image" src="https://github.com/user-attachments/assets/d76d90a7-f84e-498b-9e38-d4cb3d8dbc73" />
+
+## 26. Verificar que funciona el Animator enemy-idle-1
+<img width="442" height="249" alt="image" src="https://github.com/user-attachments/assets/dddeb30c-6662-4dbd-92c3-05d4569a1bd2" />
+
