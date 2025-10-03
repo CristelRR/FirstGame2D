@@ -1,7 +1,7 @@
 # FirstGame2D (Parte 1)
 
 ## 1. Creación de un nuevo proyecto
-<img width="885" height="498" alt="image" src="https://github.com/user-attachments/assets/c8aebe76-1b2f-4179-a1e4-fc785d66f923" />
+<img width="442" height="249" alt="image" src="https://github.com/user-attachments/assets/c8aebe76-1b2f-4179-a1e4-fc785d66f923" />
 
 ## 2.	Creación de la estructura del directorio
 <img width="885" height="498" alt="image" src="https://github.com/user-attachments/assets/9315de1a-3968-486f-af8a-53fbfbd66b4e" />
@@ -71,5 +71,4 @@
 
 ## 21. Cambiar la velocidad a 0.6 en el Animator player-walk-east
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8e1382bc-d4a9-4a3a-98f3-9cdb7f405aaa" />
-
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9425059c-b63c-4fba-b5e5-196f9f12055a" />
