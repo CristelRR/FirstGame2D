@@ -62,7 +62,7 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6cc34a33-9e16-4a20-a412-4c0897452ed2" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/10a4719a-defd-406b-83c2-5ff75f1a1216" />
 
-# 19. Seleccionar los Sprites Player_8 y Player_9 y arrastrar los Sprites seleccionados al PlayerObject y guardarlos como player-walk-north en la carpeta de /Assets/Animations/Animations
+# 19. Seleccionar los Sprites Player_8 y Player_9 y arrastrar los Sprites seleccionados al PlayerObject y guardarlos como player-idle en la carpeta de /Assets/Animations/Animations
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c33b464b-3be4-4821-8d5a-40cfa96246c5" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bc588606-7fa5-4960-9eef-67292186b4df" />
 
