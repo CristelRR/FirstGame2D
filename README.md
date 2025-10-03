@@ -68,3 +68,8 @@
 
 ## 20. Establacer el Size = 1 en Main Camera
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6997a912-eac6-4cc5-b22d-6076d722a2a3" />
+
+## 21. Cambiar la velocidad a 0.6 en el Animator player-walk-east
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8e1382bc-d4a9-4a3a-98f3-9cdb7f405aaa" />
+
+
