@@ -88,3 +88,11 @@
 ## 26. Verificar que funciona el Animator enemy-idle-1
 <img width="442" height="249" alt="image" src="https://github.com/user-attachments/assets/dddeb30c-6662-4dbd-92c3-05d4569a1bd2" />
 
+## 27. Seleccionar los 5 Sprites de EnemyWalk_1
+<img width="442" height="249" alt="image" src="https://github.com/user-attachments/assets/fb9e2675-7f7c-4022-8b4e-fa65273cdfb8" />
+
+## 28. Arrastrar los Sprites seleccionados al EnemyObject y guardarlos como Assets/Animations/Animaciones/enemy-idle-1.anim
+<img width="442" height="249" alt="image" src="https://github.com/user-attachments/assets/ac1c3d70-c56d-4108-beb2-f3bb367791c7" />
+
+## 31. Verificar que funciona el Animator enemy-idle-1
+
