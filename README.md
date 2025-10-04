@@ -95,4 +95,5 @@
 <img width="442" height="249" alt="image" src="https://github.com/user-attachments/assets/ac1c3d70-c56d-4108-beb2-f3bb367791c7" />
 
 ## 31. Verificar que funciona el Animator enemy-idle-1
+<img width="201" height="251" alt="image" src="https://github.com/user-attachments/assets/d6b7679f-48c8-4190-9e3a-02a27934e0da" />
 
