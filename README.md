@@ -8,7 +8,7 @@
 
 ## Contents
 - [Act_1: Tutoriales 2D - Unity](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#tutoriales-2d---unity)
-- [Act_2: Videojuego]()
+- [Act_2: Videojuego](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#act_2-videojuego)
 - [Act_3: Ejercicios prácticos](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#act_3-ejercicio-pr%C3%A1ctico)
 - [Folder and file structure](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#folder-and-file-structure)
 - [Requirements](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#requirements)
