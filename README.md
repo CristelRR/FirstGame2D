@@ -9,8 +9,8 @@
 ## Contents
 - [Folder and file structure](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#folder-and-file-structure)
 - [Requirements](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#requirements)
-- How to start
-- Site configuration
+- [How to start](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#how-to-start)
+- [Site configuration]()
 - Tasks
   - Cleanup
   - Dev
@@ -18,8 +18,8 @@
   - Rebuild
   - Server
   - Live reload
-- License
-- [Tutoriales 2D - Unity]
+- [License](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#tutoriales-2d---unity)
+- [Tutoriales 2D - Unity](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#tutoriales-2d---unity)
 
 ---
 
