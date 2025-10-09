@@ -36,18 +36,18 @@ El objetivo de esta actividad es practicar los fundamentos de desarrollo de vide
 
 | Tutorial | Descripción | Enlace de Capturas de Evidencia | Enlace de Video de Evidencia |
 |----------|-------------|---------------------------------|------------------------------|
-| 01 - Creación del mundo | Construcción del escenario y elementos básicos del juego |  | [Video](https://youtu.be/enlace_tutorial01) |
-| 02 - Movimiento y salto | Implementación del movimiento horizontal y salto del personaje |  | [Video](https://youtu.be/enlace_tutorial02) |
-| 03 - Recoger Frutas | Programación de recolección de objetos en el juego |  |
-| 04 - Animaciones de personaje | Animaciones para caminar, saltar y acciones del personaje |  | [Video](https://youtu.be/enlace_tutorial04) |
-| 05 - Enemigos | Creación de enemigos y comportamiento básico |  | [Video](https://youtu.be/enlace_tutorial05) |
-| 06 - Niveles | Diseño de diferentes niveles y transición entre ellos | [Capturas](https://github.com/usuario/proyecto-unity-tutorial06/screenshots) | [Video](https://youtu.be/enlace_tutorial06) |
-| 07 - CheckPoint | Implementación de puntos de control para guardar progreso | [Capturas](https://github.com/usuario/proyecto-unity-tutorial07/screenshots) | [Video](https://youtu.be/enlace_tutorial07) |
-| 08 - Nuevos personajes | Agregar personajes adicionales con habilidades únicas | [Capturas](https://github.com/usuario/proyecto-unity-tutorial08/screenshots) | [Video](https://youtu.be/enlace_tutorial08) |
-| 09 - Menú Principal | Diseño de menú de inicio y navegación del juego | [Capturas](https://github.com/usuario/proyecto-unity-tutorial09/screenshots) | [Video](https://youtu.be/enlace_tutorial09) |
-| 10 - Controles para móvil | Adaptación de controles para dispositivos móviles | [Capturas](https://github.com/usuario/proyecto-unity-tutorial10/screenshots) | [Video](https://youtu.be/enlace_tutorial10) |
-| 11 - Score | Sistema de puntuación y registro de puntos | [Capturas](https://github.com/usuario/proyecto-unity-tutorial11/screenshots) | [Video](https://youtu.be/enlace_tutorial11) |
-| 12 - Vidas | Implementación de sistema de vidas y game over | [Capturas](https://github.com/usuario/proyecto-unity-tutorial12/screenshots) | [Video](https://youtu.be/enlace_tutorial12) |
+| 01 - Creación del mundo | Construcción del escenario y elementos básicos del juego | [Capturas] | [Video] |
+| 02 - Movimiento y salto | Implementación del movimiento horizontal y salto del personaje | [Capturas] | [Video] |
+| 03 - Recoger Frutas | Programación de recolección de objetos en el juego | [Capturas] |
+| 04 - Animaciones de personaje | Animaciones para caminar, saltar y acciones del personaje | [Capturas] | [Video] |
+| 05 - Enemigos | Creación de enemigos y comportamiento básico | [Capturas] | [Video] |
+| 06 - Niveles | Diseño de diferentes niveles y transición entre ellos | [Capturas] | [Video] |
+| 07 - CheckPoint | Implementación de puntos de control para guardar progreso | [Capturas] | [Video] |
+| 08 - Nuevos personajes | Agregar personajes adicionales con habilidades únicas | [Capturas]| [Video] |
+| 09 - Menú Principal | Diseño de menú de inicio y navegación del juego | [Capturas] | [Video] |
+| 10 - Controles para móvil | Adaptación de controles para dispositivos móviles | [Capturas] | [Video] |
+| 11 - Score | Sistema de puntuación y registro de puntos | [Capturas] | [Video] |
+| 12 - Vidas | Implementación de sistema de vidas y game over | [Capturas] | [Video] |
 
 
 ---
