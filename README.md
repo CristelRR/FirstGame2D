@@ -39,6 +39,11 @@
 ---
 
 ## Act_3: Ejercicios prácticos
+| Tutorial | Descripción | Enlace de Capturas de Evidencia | Enlace de Video de Evidencia |
+|----------|-------------|---------------------------------|------------------------------|
+| | | | |
+| | | | |
+| | | | |
 
 ---
 
