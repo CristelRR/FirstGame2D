@@ -39,10 +39,10 @@
 ---
 
 ## Act_3: Ejercicios prácticos
-| Tutorial | Descripción | Enlace de Capturas de Evidencia | Enlace de Video de Evidencia |
+| Ejercicio | Descripción | Enlace de Capturas de Evidencia | Enlace de Video de Evidencia |
 |----------|-------------|---------------------------------|------------------------------|
-| | | | |
-| | | | |
+|Practico 01 |  |  |  |
+| Practico 02|  | [Capturas](https://docs.google.com/document/d/1AMLuqyKIliZMvM-CBCq1ZL041ha39cIpzkauYUK0244/edit?usp=sharing) |  |
 | | | | |
 
 ---
