@@ -35,6 +35,10 @@
 
 ---
 
+## Site configuration
+
+---
+
 ## Tasks
 
 ---
