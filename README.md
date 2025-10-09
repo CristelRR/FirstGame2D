@@ -10,7 +10,7 @@
 - [Folder and file structure](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#folder-and-file-structure)
 - [Requirements](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#requirements)
 - [How to start](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#how-to-start)
-- [Site configuration]()
+- [Site configuration](https://github.com/CristelRR/FirstGame2D/blob/main/README.md#site-configuration)
 - Tasks
   - Cleanup
   - Dev
