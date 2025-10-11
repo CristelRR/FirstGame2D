@@ -43,8 +43,11 @@
 |----------|-------------|---------------------------------|------------------------------|
 | Parte 01 | 03/Octubre | [Documento](https://docs.google.com/document/d/1xjHV094AVDt1sbRRsmInZ2yAa5YXe2rKB0OmhsQEti8/edit?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1m8jKeXGbJax8dTEbsI7zYo0TzrkNjOWz/view?usp=drive_link) |
 | Parte 02 | 10/Octubre | [Documento](https://docs.google.com/document/d/13VuegO4GtZ20YiDhtbrbrFbaZINwK2Bh1gInNpMG_kY/edit?usp=sharing) | [Vídeo](https://drive.google.com/file/d/1UxW7BE8Z75bhFWvlNiHnRZ998UnXieWR/view?usp=drive_link) |
-| Parte 03 | 17/Octubre |  |  |
-| Parte 04 | 24/Octubre |  |  |
+| Parte 03 | 17/Octubre/2025 |  |  |
+| Parte 04 | 24/Octubre/2025 |  |  |
+| Parte 05 | 31/Octubre/2025 |  |  |
+| Parte 06 | 07/Noviembre/2025 |  |  |
+| Parte 07 | 14/Noviembre/2025 |  |  |
 
 ---
 
