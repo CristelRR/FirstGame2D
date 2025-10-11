@@ -39,11 +39,12 @@
 ---
 
 ## Act_3: Ejercicios prácticos
-| Ejercicio | Descripción | Enlace de Capturas de Evidencia | Enlace de Video de Evidencia |
+| Ejercicio | Fecha | Enlace de Capturas de Evidencia | Enlace de Video de Evidencia |
 |----------|-------------|---------------------------------|------------------------------|
-|Practico 01 |  |  |  |
-| Practico 02|  | [Capturas](https://docs.google.com/document/d/1AMLuqyKIliZMvM-CBCq1ZL041ha39cIpzkauYUK0244/edit?usp=sharing) |  |
-| | | | |
+| Parte 01 | 03/Octubre | [Documento](https://docs.google.com/document/d/1xjHV094AVDt1sbRRsmInZ2yAa5YXe2rKB0OmhsQEti8/edit?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1m8jKeXGbJax8dTEbsI7zYo0TzrkNjOWz/view?usp=drive_link) |
+| Parte 02 | 10/Octubre |  |  |
+| Parte 03 | 17/Octubre |  |  |
+| Parte 04 | 24/Octubre |  |  |
 
 ---
 
