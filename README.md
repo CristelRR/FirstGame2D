@@ -46,8 +46,7 @@
 | Parte 03 | 17/Octubre/2025 | [Documento](https://docs.google.com/document/d/1GZtzuLGFEjOkw9UzDCc8wjMDXmNDyWqzGtvssheaHXc/edit?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1CHZi9Y-nk-1YhfACOgtg2ShYDKpZ9PBy/view?usp=sharing) |
 | Parte 04 | 24/Octubre/2025 | [Documento](https://docs.google.com/document/d/1tDSIw2Yv5ZeEAOt8hJt6tG_7UZA3YVonYx0fhaNtMlE/edit?usp=sharing) | [Vídeo](https://drive.google.com/file/d/1Rf5PnxnYgQVn4ABXBQzhKkNJEpkuZWMp/view?usp=drive_link) |
 | Parte 05 | 31/Octubre/2025 | [Documento](https://docs.google.com/document/d/1v1gOsBwHX0hjgO0Zk-8UrUnTUjWoOdqW9GZT807JsAY/edit?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1rVTjbyYgrygnQEb4RXIcgCJWvrJ_nQJd/view?usp=drive_link) |
-| Parte 06 | 07/Noviembre/2025 | [Documento](https://docs.google.com/document/d/10qSOu1f8ncci2j5cetue1ZvhNNHoSdFH10ZnBwzufJU/edit?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1rVTjbyYgrygnQEb4RXIcgCJWvrJ_nQJd/view?usp=drive_link) |
-| Parte 07 | 14/Noviembre/2025 | [Documento](https://docs.google.com/document/d/10qSOu1f8ncci2j5cetue1ZvhNNHoSdFH10ZnBwzufJU/edit?usp=drive_link) | [Vídeo]() |
+| Parte 06 | 07/Noviembre/2025 | [Documento](https://docs.google.com/document/d/10qSOu1f8ncci2j5cetue1ZvhNNHoSdFH10ZnBwzufJU/edit?usp=drive_link) | [Vídeo](https://drive.google.com/file/d/1pAFs-6db2cHcZeoR4ljEqcUgp1GT77eh/view?usp=sharing) |
 
 ---
 
